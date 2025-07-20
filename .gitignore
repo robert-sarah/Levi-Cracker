@@ -1,0 +1,9 @@
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.swp
+.DS_Store
